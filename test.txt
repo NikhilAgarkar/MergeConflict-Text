@@ -1,2 +1,4 @@
 test.txt
 Line 1 by remote
+Line 2 by local
+Line 3 by local
